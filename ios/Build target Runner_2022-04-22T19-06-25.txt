@@ -1,0 +1,6 @@
+
+Showing Recent Messages
+Failed to create provisioning profile. There are no devices registered in your account on the developer website. Select a device run destination to have Xcode register it.
+
+No profiles for 'com.example.girbegenal' were found: Xcode couldn't find any iOS App Development provisioning profiles matching 'com.example.girbegenal'.
+
