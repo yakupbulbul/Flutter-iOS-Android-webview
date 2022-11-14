@@ -17,7 +17,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       home: SafeArea(child: WebView(
-        initialUrl: "https://canvas.agu.edu.tr/login/canvas",
+        initialUrl: "https://yakupbulbul.com,
         javascriptMode: JavascriptMode.unrestricted,
       ),)
     );
